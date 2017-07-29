@@ -1,0 +1,5 @@
+E:\Scholarship\My Project\Soding_Assignment\Soding_Assignment\bin\Soding_Assignment.dll
+E:\Scholarship\My Project\Soding_Assignment\Soding_Assignment\bin\Soding_Assignment.pdb
+E:\Scholarship\My Project\Soding_Assignment\Soding_Assignment\obj\Debug\Soding_Assignment.csprojResolveAssemblyReference.cache
+E:\Scholarship\My Project\Soding_Assignment\Soding_Assignment\obj\Debug\Soding_Assignment.dll
+E:\Scholarship\My Project\Soding_Assignment\Soding_Assignment\obj\Debug\Soding_Assignment.pdb
